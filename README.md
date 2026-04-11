@@ -49,7 +49,3 @@ Tutorial notebooks are provided to help users understand the overall workflow of
 ## 4. Contact information
 
 If you have any questions, please contact lixiang@stu.cpu.edu.cn.
-
-## 5. Copyright information 
-
-Please see the "LICENSE" file for the copyright information.
