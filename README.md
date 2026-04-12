@@ -16,14 +16,14 @@ SpaHDSRL is a hierarchical dual-graph self-supervised representation learning fr
 └── README.md
 ```
 
-* `Data/`: datasets required for reproduction.
+- `Data/`: datasets required for reproduction.
 
-* `SpaHDSRL/`: source code of the SpaHDSRL algorithm.
-  *`process.py`: overall training pipeline.
-  *`model.py`: main model framework.
-  *`crossLayer.py`: model fusion module.
+- `SpaHDSRL/`: source code of the SpaHDSRL algorithm.
+  - `process.py`: overall training pipeline.
+  - `model.py`: main model framework.
+  - `crossLayer.py`: model fusion module.
 
-* `Tutorial/`: five demo files for reproducing the workflow.
+- `Tutorial/`: five demo files for reproducing the workflow.
 
 ## 2. Environment setup
 
