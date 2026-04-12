@@ -27,7 +27,7 @@ SpaHDSRL is a hierarchical dual-graph self-supervised representation learning fr
 
 ## 2. Environment setup
 
-We recommend using Conda to create the environment for SpaHDSRL.
+We recommend using Conda to create the environment for SpaHDSRL:
 
 ```
 conda create -n SpaHDSRL python=3.12 pandas numpy scanpy matplotlib umap-learn scikit-learn seaborn networkx gudhi anndata cmcrameri louvain leidenalg
@@ -48,4 +48,4 @@ Tutorial notebooks are provided to help users understand the overall workflow of
 
 ## 4. Contact information
 
-If you have any questions, please contact lixiang@stu.cpu.edu.cn.
+If you have any questions, please contact the author Xiang Li (lixiang@stu.cpu.edu.cn).
