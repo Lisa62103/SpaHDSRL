@@ -13,6 +13,7 @@ SpaHDSRL is a hierarchical dual-graph self-supervised representation learning fr
 │   ├── model.py
 │   └── crossLayer.py
 ├── Tutorial
+├── LICENSE
 └── README.md
 ```
 
@@ -48,4 +49,4 @@ Tutorial notebooks are provided to help users understand the overall workflow of
 
 ## 4. Contact information
 
-If you have any questions, please contact the author Xiang Li (lixiang@stu.cpu.edu.cn).
+If you have any questions, please contact lixiang@stu.cpu.edu.cn.
