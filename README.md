@@ -45,7 +45,7 @@ python -m ipykernel install --user --name=SpaHDSRL --display-name="SpaHDSRL"
 
 ## 3. Tutorials
 
-Tutorial notebooks are provided to help users understand the overall workflow of SpaHDSRL, reproduce the main analysis procedures, and apply SpaHDSRL to their own paired spatial multi-omics datasets. Here, we present tutorials for two simulated datasets and three real datasets. The data required for running these tutorials are available in the `data/` folder.
+Tutorial notebooks are provided to help users understand the overall workflow of SpaHDSRL, reproduce the main analysis procedures, and apply SpaHDSRL to their own paired spatial multi-omics datasets. Here, we present tutorials for two simulated datasets and three real datasets. Among them, Tutorial 1 provides a general example of the SpaHDSRL workflow and can be used as a reference template for applying the method to a new dataset. The data required for running these tutorials are available in the `data/` folder.
 
 ## 4. Contact information
 
